@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, sou a Fernanda 👋
 
-<!--
-**Fernanda-SMacedo/Fernanda-SMacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**De humanas para os códigos | Estudante de Desenvolvimento de Sistemas**
 
-Here are some ideas to get you started:
+Sou uma pessoa de humanas e graduada em Gestão Empresarial que decidiu desbravar o mundo da lógica de programação. Atualmente, estudo Desenvolvimento de Sistemas na ETEC e trabalho com Projetos de Software, com forte vivência em Implantação de Serviços. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha missão agora é unir a empatia e a comunicação das humanas com a capacidade de resolução de problemas da tecnologia. 
+
+Sobre mim:
+🎓 Cursando **Desenvolvimento de Sistemas** na ETEC.
+💼 Atuo com **Projetos de Implantação de Software**, unindo a visão de negócios com a entrega de soluções.
+🌱 Atualmente mergulhando nos estudos de **Python, JavaScript e ADVPL**.
+💡 Tenho muito interesse em dados, estruturas lógicas e em promover a diversidade e inclusão no ambiente corporativo.
+
+📫 Como me encontrar
+[LinkedIn](https://www.linkedin.com/in/fernanda-smacedo)
+**E-mail:** fernandasantosm022@gmail.com
+
