@@ -12,6 +12,11 @@ Sobre mim:
 🌱 Atualmente mergulhando nos estudos de **Python, JavaScript e ADVPL**.
 💡 Tenho muito interesse em dados, estruturas lógicas e em promover a diversidade e inclusão no ambiente corporativo.
 
+Tecnologias e Ferramentas:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ADVPL](https://img.shields.io/badge/ADVPL-000000?style=for-the-badge&logo=totvs&logoColor=white)
+
 📫 Como me encontrar
 [LinkedIn](https://www.linkedin.com/in/fernanda-smacedo)
 **E-mail:** fernandasantosm022@gmail.com
